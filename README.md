@@ -5,7 +5,7 @@
 
 <br/>
 <a>
-<img src="https://github-readme-stats.vercel.app/api?username=yNickoKun&show_icons=true&theme=tokyonight&count_private=true" alt="yNickoKun" />
+<img src="https://github-readme-stats.vercel.app/api?username=yNickoKun&show_icons=true&theme=nord&count_private=true" alt="yNickoKun" />
 </a>
 <br/>
 
