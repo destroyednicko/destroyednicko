@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1>Hey! Yah, idk 🪐</h1>
+<h3>Full stack developer, art and music lover. And they call me Goularte (wtf).</h3>
 
-<!--
-**yNickoKun/yNickoKun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4>I currently have no projects, it's just for fun!</h4>
 
-Here are some ideas to get you started:
+<br/>
+<a>
+<img src="https://github-readme-stats.vercel.app/api?username=yNickoKun&show_icons=true&theme=tokyonight&count_private=true" alt="yNickoKun" />
+</a>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yNickoKun&layout=compact" alt="yNickoKun" />
+</a>
+<br/>
+
+🌱 I’m currently learning about Deep & Machine Learning.
+
