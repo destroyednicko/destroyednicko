@@ -2,40 +2,40 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
-p{
-  font-family: "Courier";
-  color: lime; 
-  font-size: 20px;
-  
-  width: 600px; /* ou 30em*/
-  white-space: nowrap;
-  overflow: hidden;
-  animation: linha1 4s steps(50, end);
-}
+				p{
+				  font-family: "Courier";
+				  color: lime; 
+				  font-size: 20px;
 
-p:nth-child(2){
-  animation: linha2 4s steps(50, end);
-}
+				  width: 600px; /* ou 30em*/
+				  white-space: nowrap;
+				  overflow: hidden;
+				  animation: linha1 4s steps(50, end);
+				}
 
-span{
-  animation: pisca 1s infinite;
-}
+				p:nth-child(2){
+				  animation: linha2 4s steps(50, end);
+				}
 
-@keyframes linha1{ 
-  from { width: 0; } 
-} 
+				span{
+				  animation: pisca 1s infinite;
+				}
 
-@keyframes linha2{
-  0%{width: 0;}
-  25%{width: 0;}
-  100%{ width: 100; } 
-} 
+				@keyframes linha1{ 
+				  from { width: 0; } 
+				} 
 
-@keyframes pisca{
-  to{opacity: 0%;}
-}
+				@keyframes linha2{
+				  0%{width: 0;}
+				  25%{width: 0;}
+				  100%{ width: 100; } 
+				} 
+
+				@keyframes pisca{
+				  to{opacity: 0%;}
+				}
 </style>
         <p>Member of Paralyze</p>
+</div>
 	</foreignObject>
-		</div>
 </svg>
