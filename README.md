@@ -3,7 +3,7 @@
 
 <h4>I currently have no projects, it's just for fun!</h4>
 <a href="https://raw.githubusercontent.com/yNickoKun/yNickoKun/main/README.md">
-		<img src="effect.svg" width="800" height="400">
+		<img src="a.svg" width="800" height="400">
 	</a>
 <br/>
 <a>
