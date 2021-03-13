@@ -2,8 +2,8 @@
 <h3>Yo, i'm a fullstack developer focused on the backend mainly.</h3>
 
 <h4>I currently have no projects, it's just for fun!</h4>
-		<img src="a.svg" width="800" height="400">
-<br/>
+<img src="https://raw.githubusercontent.com/yNickoKun/yNickoKun/main/a.svg">
+<br>
 <a>
 <img src="https://github-readme-stats.vercel.app/api?username=yNickoKun&show_icons=true&theme=material-palenight&count_private=true" alt="yNickoKun" />
 </a>
