@@ -7,7 +7,5 @@
 <a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yNickoKun&layout=compact&theme=material-palenight" alt="yNickoKun" />
 </a>
-<br/>
-
-🌱 I’m currently learning about Deep & Machine Learning.
+Learning about neural networks.
 
