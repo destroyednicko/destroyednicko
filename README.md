@@ -1,6 +1,7 @@
-<h1>that the Saturn's rings line up and show our destiny. 🪐</h1>
-<h3>Yo, i'm a fullstack developer focused on the backend mainly.</h3>
-<h4>I currently don't have projects, it's just for fun!</h4>
-<a><img src="https://github-readme-stats.vercel.app/api?username=destroyed&show_icons=true&theme=material-palenight&count_private=true" alt="yNickoKun"/></a>
-Learning about neural networks.
-
+<h1>fuck the world. in the end, everything 'll always be the same.</h1>
+<h3>i'm a fullstack developer focused on the backend mainly.</h3>
+<a><img src="https://github-readme-stats.vercel.app/api?username=destroyednicko&show_icons=true&theme=material-palenight&count_private=true" alt="yNickoKun"/></a>
+<h4>Techs & Tools:</h4>
+<h5>Java, Kotlin, JS, PHP, GOLang, Python & C#
+VSCode, VS2019, IntelliJ IDEA & Sublime Text.
+</h5>
