@@ -1,8 +1,7 @@
-<h1>fuck the world. in the end, everything 'll always be the same.</h1>
-<h3>i'm a fullstack developer focused on the backend mainly.</h3>
-<h5>卐 nazi!</h5>
+<h3>🌙 | je suis un développeur fullstack axé principalement sur le backend.</h3>
+<h5>🖤 | j'étudie actuellement sur le pentest et le C++</h5>
 <a><img src="https://github-readme-stats.vercel.app/api?username=destroyednicko&show_icons=true&theme=material-palenight&count_private=true" alt="yNickoKun"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=destroyednicko&langs_count=8&layout=compact&theme=material-palenight"/></a>
-<h5>Techs & Tools:
+<h5>☄️ | outils et technologies:
 Java, Kotlin, JS, PHP, GOLang, Python & C#<br>
-VSCode, VS2019, IntelliJ IDEA & Sublime Text.
+Atom, VS2019, IntelliJ IDEA & Sublime Text.
 </h5>
